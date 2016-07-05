@@ -1,4 +1,4 @@
 # capstone
-Capstone
-![alt Architecture](/images/Best_Seller_arch.png "Architecture")
-![alt Sequence](/images/BestSeller_Seq.png "Sequence")
+Capstone Project(Under Development) --DashBoard
+![alt Architecture](/images/capstoneArch "Architecture")
+![alt DashBoard](/images/capstoneDash "Sequence")
